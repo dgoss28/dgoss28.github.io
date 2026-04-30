@@ -1,9 +1,18 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
 
-# Home
-This is just a site to organize some personal projects that I've got, because nobody loves a Project Graveyard more than myself
+# Dylan Goss
+
+Tahoe City, CA
+
+Founding Engineer — [Happenstance](https://happenstance.ai/)
+
+- [LinkedIn](https://linkedin.com/in/dgoss28)
+- [GitHub](https://github.com/dgoss28)
+
+## Fun Stuff
+
+- [corn.ski](https://corn.ski/)
+- [tahoeneighbor.com](https://tahoeneighbor.com/)
+- Volunteering at [Achieve Tahoe](https://www.achievetahoe.org/)
