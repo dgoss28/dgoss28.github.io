@@ -12,8 +12,9 @@ layout: home
   </p>
 </div>
 
-## Fun Stuff
+## Other Stuff
 
-- [corn.ski](https://corn.ski/)
-- [tahoeneighbor.com](https://tahoeneighbor.com/)
+- [corn.ski](https://corn.ski/) - Physics and ML derived snow predictor
+- [alpage.ai](https://alpage.ai/) - AI Consulting
+- [tahoeneighbor.com](https://tahoeneighbor.com/) - Property caretaking in Tahoe
 - Volunteering at [Achieve Tahoe](https://www.achievetahoe.org/)
